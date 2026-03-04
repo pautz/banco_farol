@@ -1,8 +1,4 @@
 # banco_farol
-Pra quem deseja um sistema de carrinho todofarol4, bd u839226731_meutrator (2).sql
-descompacte o sistema de login tambem
-sistema de login https://github.com/pautz/login_system/blob/main/README.md?fbclid=IwY2xjawQNrbVleHRuA2FlbQIxMQBzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEepU4hwKs3yUzsOmc7jIa8Mt5oDz_Kcepoa-c0WvWhlAywNggaRj5arJ6sgcw_aem_je7UWRwPldzkCYjK-huxeg
-
-sistema de banco
-
-configure o webhook no mercado pago para acessar a pagina do webhook
+Pra quem deseja um sistema de carrinho, bd u839226731_meutrator (2).sql
+descompacte o sistema de login, todo farol, e o banco
+configure o webhook no mercado pago para acessar a pagina do webhook, assim atualizando os id dos pedidos assim sendo informado pelo mercado pago os pagamentos
